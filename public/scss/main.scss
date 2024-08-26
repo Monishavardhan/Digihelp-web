@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+$font-family-sans-serif:"Poppins", sans-serif;
+$modal-content-border-radius: 16px;
+$modal-content-border-color:rgb(242, 237, 237);
+$modal-transition: transform .1s ease-out;
+
+$modal-header-border-color: white;
+$btn-border-radius: 10px;
+$input-border-radius: 10px;
+$modal-sm: 420px;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss'
